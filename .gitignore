@@ -1,0 +1,6 @@
+cat <<EOF > .gitignore
+.Rproj.user/
+.Rhistory
+.RData
+.Rproj
+EOF
